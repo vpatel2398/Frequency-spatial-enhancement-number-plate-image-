@@ -1,4 +1,4 @@
-# FrequencySpatialEnhancement
+# Frequency Spatial Enhancement (number plate image)
 # Image Restoration and Optical Deciphering
 
 Enhancing Newspaper Photos and Decoding Noisy Number Plates with Frequency Filters and Spatial Techniques
