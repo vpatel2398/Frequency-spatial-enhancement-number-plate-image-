@@ -43,9 +43,6 @@ The project demonstrates the effectiveness of frequency filters and spatial tech
 
 Thank you for reading!
 
-If you like my work and want to support me, you can follow me on [Medium](https://patel-prakhar09.medium.com/) and [LinkedIn](https://www.linkedin.com/in/prakhar0927/).
-
-If you want to understand better read my medium blog on [Enhancing Newspaper Photos and Decoding Noisy Number Plates with Frequency Filters and Spatial Techniques](https://patel-prakhar09.medium.com/enhancing-newspaper-photos-and-decoding-noisy-number-plates-with-frequency-filters-and-spatial-47ef9cd9540d)
 
 
 
